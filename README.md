@@ -5,6 +5,12 @@ packs, with overlaps merged by hand instead of multiplied. See [SOURCES.md](./SO
 skill came from and [THIRD_PARTY_LICENSES.md](./THIRD_PARTY_LICENSES.md) for
 the MIT attribution this repo is legally obligated to carry.
 
+## But wait, what are skills?
+
+Agent Skills are modular, reusable packages of instructions and context that teach AI agents how to perform specialized
+tasks without needing conversational hand-holding. Operating as lightweight file-based standards, they allow agents to
+load relevant domain expertise and workflows dynamically.
+
 ## What's here
 
 47 skills under `skills/`, organized loosely around the software lifecycle:
@@ -38,7 +44,7 @@ the MIT attribution this repo is legally obligated to carry.
 
 ## Install
 
-This follows the same layout Claude Code expects natively — a `skills/`
+This follows the same layout Claude Code expects natively: a `skills/`
 directory of folders, each with a `SKILL.md`. Two ways to use it:
 
 ```bash
@@ -62,7 +68,7 @@ original skill and need to travel with it; don't flatten them out.
 ## Why these 47 and not more
 
 The brief was a personal Claude Code setup, not a public showcase, so this
-isn't "everything good on skills.sh" — it's specifically what's useful for
+isn't "everything good on skills.sh", it's specifically what's useful for
 frontend/design-systems/accessibility work, deduplicated so skills aren't
 fighting each other for the same trigger phrases. The full reasoning for every
 inclusion, merge, and cut is in [SOURCES.md](./SOURCES.md).
@@ -79,4 +85,4 @@ field actually fire correctly versus going stale and never triggering.
 
 The compiled selection, structure, README, and SOURCES/attribution files in
 this repo are MIT, Copyright (c) 2026 Peter Benoit. Individual skill content
-remains under the license of its original author — see THIRD_PARTY_LICENSES.md.
+remains under the license of its original author. See THIRD_PARTY_LICENSES.md.
