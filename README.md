@@ -1,8 +1,7 @@
 # agent-skills
 
 Pete's personal Claude Code skill library. Curated from three open-source skill
-packs — not a clone of any of them — deduplicated, with overlaps merged by hand
-instead of multiplied. See [SOURCES.md](./SOURCES.md) for exactly where each
+packs, with overlaps merged by hand instead of multiplied. See [SOURCES.md](./SOURCES.md) for exactly where each
 skill came from and [THIRD_PARTY_LICENSES.md](./THIRD_PARTY_LICENSES.md) for
 the MIT attribution this repo is legally obligated to carry.
 
