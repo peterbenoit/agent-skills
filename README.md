@@ -7,7 +7,7 @@ the MIT attribution this repo is legally obligated to carry.
 
 ## What's here
 
-38 skills under `skills/`, organized loosely around the software lifecycle:
+47 skills under `skills/`, organized loosely around the software lifecycle:
 
 **Define** — `spec-driven-development`, `idea-refine`, `interview-me`,
 `doubt-driven-development`, `domain-modeling`, `codebase-design`
@@ -17,7 +17,12 @@ the MIT attribution this repo is legally obligated to carry.
 
 **Build** — `test-driven-development`, `frontend-ui-engineering`,
 `code-simplification`, `source-driven-development`, `vercel-react-best-practices`,
-`vercel-composition-patterns`, `web-design-guidelines`
+`vercel-composition-patterns`, `web-design-guidelines`,
+`vanilla-js`, `css-architecture`, `angular`, `vue`, `drupal`
+
+**Accessibility & Standards** — `accessibility-508-wcag`, `uswds`, `vads`
+
+**SEO** — `seo`
 
 **Verify** — `code-review-and-quality`, `debugging-and-error-recovery`,
 `browser-testing-with-devtools`, `security-and-hardening`, `performance-optimization`
@@ -54,7 +59,7 @@ original skill and need to travel with it; don't flatten them out.
 - The `vercel-*` skills assume you're authenticated to Vercel (CLI or MCP) for
   anything beyond static guideline-review use.
 
-## Why these 38 and not more
+## Why these 47 and not more
 
 The brief was a personal Claude Code setup, not a public showcase, so this
 isn't "everything good on skills.sh" — it's specifically what's useful for
