@@ -65,6 +65,21 @@ original skill and need to travel with it; don't flatten them out.
 - The `vercel-*` skills assume you're authenticated to Vercel (CLI or MCP) for
   anything beyond static guideline-review use.
 
+## Resources
+
+Primary references used for this collection and skill ecosystem browsing:
+
+- https://www.skills.sh/
+- https://github.com/vercel-labs/agent-skills
+- https://github.com/addyosmani/agent-skills/tree/main
+- https://github.com/mattpocock/skills/tree/main
+
+Additional places to find skills and related tooling:
+
+- https://github.com/hesreallyhim/awesome-claude-code
+- https://github.com/VoltAgent/awesome-agent-skills
+- https://github.com/sickn33/antigravity-awesome-skills
+
 ## Why these 47 and not more
 
 The brief was a personal Claude Code setup, not a public showcase, so this
