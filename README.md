@@ -64,7 +64,7 @@ inclusion, merge, and cut is in [SOURCES.md](./SOURCES.md).
 
 ## Maintaining this
 
-When you add a skill — your own or pulled from somewhere else — add a row to
+When you add a skill, your own or pulled from somewhere else, add a row to
 SOURCES.md and, if it's not yours originally, an entry in
 THIRD_PARTY_LICENSES.md. `writing-great-skills` (from mattpocock/skills) is
 in here specifically as your reference for what makes a skill's `description`
