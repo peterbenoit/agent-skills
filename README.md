@@ -1,5 +1,7 @@
 # agent-skills
 
+⚠️ This repository has been archived. Please use peterbenoit/agent-config instead.
+
 Pete's personal Claude Code skill library. Curated from three open-source skill
 packs, with overlaps merged by hand instead of multiplied. See [SOURCES.md](./SOURCES.md) for exactly where each
 skill came from and [THIRD_PARTY_LICENSES.md](./THIRD_PARTY_LICENSES.md) for
